@@ -2,6 +2,10 @@
 
 DevInsight is a web application that allows users to enter a GitHub username and view detailed information about the corresponding GitHub account. The application fetches data from the GitHub API and presents it in a user-friendly interface.
 
+## Live Demo
+
+Check out the live demo: [DevDetective Live](https://reliable-crostata-3dde22.netlify.app)
+
 ## Features
 
 - **GitHub Profile Information:** View details such as name, username, bio, location, and more.
