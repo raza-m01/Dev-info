@@ -4,7 +4,7 @@ DevInsight is a web application that allows users to enter a GitHub username and
 
 ## Live Demo
 
-Check out the live demo: [DevDetective Live](https://reliable-crostata-3dde22.netlify.app)
+Check out the live demo: [DevInsightLive](https://reliable-crostata-3dde22.netlify.app)
 
 ## Features
 
