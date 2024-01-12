@@ -1,4 +1,4 @@
-# DevInsight - GitHub Profile Viewer
+# DevDetective - GitHub Profile Viewer
 
 DevInsight is a web application that allows users to enter a GitHub username and view detailed information about the corresponding GitHub account. The application fetches data from the GitHub API and presents it in a user-friendly interface.
 
